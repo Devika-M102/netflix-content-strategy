@@ -2,34 +2,43 @@
 
 ## Project Overview
 
-This project analyzes a public Netflix Movies and TV Shows dataset to explore catalogue composition, genre representation, geographic coverage, and content addition patterns.
+An exploratory data analysis project using a public Netflix Movies and TV Shows dataset to understand catalogue composition, genre representation, geographic coverage, and content addition patterns.
 
 ## Business Problem
 
-Understanding catalogue composition can help identify areas for further investigation in content planning and catalogue management.
+How can catalogue data be analyzed to understand content representation and identify areas for further investigation in catalogue planning?
 
-## Objectives
+## Project Objectives
 
 * Compare movies and TV shows in the catalogue.
 * Analyze genre and country representation.
 * Explore release-year and catalogue-addition trends.
-* Identify data-quality issues and document limitations.
-* Present findings through an interactive Power BI dashboard.
+* Identify missing values and data-quality issues.
+* Build an interactive Power BI dashboard.
+* Translate findings into business recommendations and requirements.
 
 ## Tools
 
-* Microsoft Excel — data cleaning and validation
-* SQL — querying and analysis
-* Power BI — visualization and reporting
+* **Excel:** Data profiling, cleaning, and validation
+* **SQL:** Data analysis and querying
+* **Power BI:** Interactive reporting and visualization
 
 ## Dataset
 
-Source: [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Netflix Movies and TV Shows dataset: [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+## Project Deliverables
+
+* Data quality and cleaning report
+* SQL analysis queries
+* Interactive Power BI report
+* Business requirements and user stories
+* Findings and recommendations
 
 ## Project Status
 
-In progress — dataset profiling and data cleaning.
+In progress — project setup and dataset preparation.
 
-## Disclaimer
+## Limitations
 
-This project uses publicly available catalogue data. Catalogue representation does not directly measure viewership, customer demand, or profitability.
+Catalogue data does not directly measure viewership, customer demand, revenue, or profitability. Findings will be interpreted within the limits of the available fields.
